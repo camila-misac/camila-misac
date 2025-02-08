@@ -130,11 +130,10 @@ Estou em transição para a área de tecnologia e comprometida com o aprendizado
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=camila-misac&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
   />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-misac&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
-  />
+    align="left" 
+    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-misac&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
+/>
 
 </p>
