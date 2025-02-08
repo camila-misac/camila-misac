@@ -2,10 +2,10 @@
 
 **`Estudante de Programação`**
 
-Me chamo Camila Moura Isac, tenho 33 anos e sou natural de São Paulo.
-Sou apaixonada por tecnologia e, por esse motivo, migrei da área administrativa, onde atuei por mais de 10 anos, para a programação, um campo no qual me identifico profundamente e que me motiva a evoluir constantemente.
-Atualmente, moro em Portugal, onde estudo Programação de Informática na instituição IEFP e realizo formações online na Alura para adquirir novos conhecimentos.
-No Brasil, concluí o curso técnico em Informática na instituição EDESP Brasil e uma formação em Hardware pela Microcamp.
+Me chamo Camila Moura Isac, tenho 33 anos e sou natural de São Paulo. Sempre fui apaixonada por tecnologia e, por isso, decidi migrar da área administrativa, onde atuei por mais de 10 anos, para a programação – um campo no qual me identifico profundamente e que me motiva a evoluir constantemente.
+Atualmente, moro em Portugal, onde estudo Programação na instituição do IEFP e também me aperfeiçoo por meio da plataforma de ensino online Alura.
+No Brasil, concluí uma formação em Hardware pela Microcamp, onde adquiri conhecimentos sobre manutenção e configuração de computadores.
+Estou em transição para a área de tecnologia e comprometida com o aprendizado contínuo em programação, buscando oportunidades para aplicar meus conhecimentos, contribuir em projetos desafiadores e evoluir profissionalmente.
 
 <p align="left">
 <a href="https://www.instagram.com/camilamisac">
