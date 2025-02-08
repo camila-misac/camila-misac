@@ -134,7 +134,6 @@ Estou em transição para a área de tecnologia e comprometida com o aprendizado
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-misac&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
